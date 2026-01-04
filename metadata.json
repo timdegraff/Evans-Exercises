@@ -1,7 +1,0 @@
-
-{
-  "name": "Evan's Exercises",
-  "description": "A fun, kid-friendly daily workout planner and tracker for Evan to build super strength!",
-  "requestFramePermissions": [],
-  "prompt": "Build a kid-friendly workout planner for every day of the week with preloaded exercises like jumping jacks and sit-ups."
-}
